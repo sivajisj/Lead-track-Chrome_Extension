@@ -1,5 +1,7 @@
 # Lead Track Chrome Extension
 
+<img src="./lead_track.png"  alt="screenshot" />
+
 Lead Track is a simple Chrome extension that allows you to save and manage your leads, providing a convenient way to keep track of URLs that are important to you.
 
 ## Features
